@@ -1,0 +1,8 @@
+{
+  "name": "hyper-hue",
+  "version": "0.0.1",
+  "description": "Hyper extension for using hue pallettes.",
+  "repository": "https://github.com/pacocoursey/hyper-hue",
+  "author": "Paco Coursey",
+  "license": "MIT"
+}
